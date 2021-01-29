@@ -39,7 +39,7 @@ const questions = [
         title: 'Can you tell me about a time when things didn’t go the way you wanted at work, such as a project that failed or being passed over for a promotion?',
         info:
           'Everyone deals with professional setbacks at some point in their career. What you want to know is how people handled — and what they learned from — those situations. The best employees are resilient, using setbacks as a springboard toward positive changes. So listen to not only the problem they mention, but also what they did after the disappointment.',
-      },
+    },
     {
       id: 7,
       title: 'What are your favorite and least favorite technology products, and why?',
@@ -47,9 +47,9 @@ const questions = [
           'In addition to learning whether prospective employees like the hardware, operating system and software your company uses, this tech interview question helps you evaluate enthusiasm and knowledge. Do candidates become animated when discussing the advantages and disadvantages of certain tools? Do they admire solid engineering, sleek design, intuitive user experience or another aspect of good technology? ',
     },
     {
-      id: 8,
-      title: 'What are the benefits and the drawbacks of working in an Agile environment?',
-      info:
+       id: 8,
+       title: 'What are the benefits and the drawbacks of working in an Agile environment?',
+       info:
           'Most IT teams have adopted some form of Agile — currently the favored SDLC methodology — which means lots of quick meetings and a steady stream of feedback from fellow team members. A candidate’s answer to this IT question can tell you not only their level of understanding of this popular environment, but also their attitudes toward collaboration and communication.',
     },
     {
@@ -87,25 +87,25 @@ const questions = [
         title: 'What would you hope to achieve in the first six months after being hired?',
         info:
           'The answer to this tech interview question depends on the role. A developer, for example, may hope to have developed a small project during that time, while a tech manager may want to have analyzed internal processes. A candidate’s response will give you insights into their overall understanding of the position. If their goals and ambitions don’t match the job description, this may not be the right position for them.',
-      },
-      {
+    },
+    {
         id: 15,
         title: 'How do you handle tight deadlines?',
         info:
           'IT teams often face daunting time constraints. You need someone who can work efficiently and accurately when under pressure. Ask this interview question of a potential employee and you’ll at least get a sense of how they deal with stress and whether they can keep up with the pace of projects at your company. You could also follow up by asking if they’ve ever missed a deadline and, if so, how they dealt with the situation.',
-      },
-      {
+    },
+    {
         id: 16,
         title: 'How do you manage your work-life balance?',
         info:
           'With on-call duties and multiple pressing deadlines, some tech workers struggle with the always-on, workaholic culture of this field. While you want dedicated team members, you should also seek employees who know how to relax and take care of themselves. Burnout is a very real problem in IT, and top performers have good strategies in place to prevent that. As a follow up to their answer, you could talk about how your company supports a healthy work-life balance — something that can be very tempting for candidates with multiple offers.',
-      },
-      {
+    },
+    {
         id: 17,
         title: 'Why do you want to work for us?',
         info:
           'Individuals who truly want the job will have done their research and be able to talk about your company’s values, products and services, and approach to technology. If they can’t articulate at least a few reasons your company would be a good match for their skills and ambitions, then they haven’t done their due diligence to properly prepare for the interview.\n\n Remember to allow time at the end of the interview for candidates to ask you questions. This is not only beneficial to applicants — it also clues you in to what matters to them. For instance, you may reconsider your interest in a prospect if they seem overly concerned about salary and vacation accrual during the first interview. Or you may be impressed when someone asks questions that demonstrate their business acumen and thorough understanding of your company’s strengths and weaknesses.',
-      }
+    }
   ]
 
   export default questions;
