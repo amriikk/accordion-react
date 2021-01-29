@@ -43,33 +43,33 @@ const questions = [
       },
       {
         id: 8,
-        title: 'What is BankID?',
+        title: 'What are the benefits and the drawbacks of working in an Agile environment?',
         info:
-          'Enamel pin fam sustainable woke whatever venmo. Authentic asymmetrical put a bird on it, lumbersexual activated charcoal kinfolk banjo cred pickled sartorial.',
+          'Most IT teams have adopted some form of Agile — currently the favored SDLC methodology — which means lots of quick meetings and a steady stream of feedback from fellow team members. A candidate’s answer to this IT question can tell you not only their level of understanding of this popular environment, but also their attitudes toward collaboration and communication.',
       },
       {
         id: 9,
-        title: 'Whose birth number can I use?',
+        title: 'How do you think further technology advances will impact your job?',
         info:
-          'Edison bulb direct trade gentrify beard lo-fi seitan sustainable roof party franzen occupy squid. Knausgaard cronut succulents, scenester readymade shabby chic lyft. Copper mug meh vegan gentrify.',
+          'Advances in technologies continue to change most IT roles. How aware of that is the candidate you’re interviewing? Do they know, for example, that automated testing is a major part of DevOps, which allows for faster development cycles and quicker deployment? A candidate may talk about the automation tools they use or the challenges of working with machine learning and big data. They may also discuss AI projects they hope to work on. This question is a good way to start a conversation about trends and advancements in the field, and it will also give you insight into how the candidate perceives their role over the long term.',
       },
       {
         id: 10,
-        title: 'When do I recieve a password ordered by letter?',
+        title: 'Tell me about a tech project you’ve worked on in your spare time.',
         info:
-          'Locavore franzen fashion axe live-edge neutra irony synth af tilde shabby chic man braid chillwave waistcoat copper mug messenger bag. Banjo snackwave blog, microdosing thundercats migas vaporware viral lo-fi seitan ',
+          'You want to hire an IT professional who devotes their personal time to side projects. Why? These are people who are driven and curious, which, in turn, keeps their skill set fresh. Ask how they stay motivated, what interests them about the project and what their ultimate goal is. If they can demo a website or app they’ve built, all the better.',
       },
       {
         id: 11,
-        title: 'Do I have to allow the use of cookies?',
+        title: 'What was the last presentation you gave?',
         info:
-          'Unicorn vinyl poutine brooklyn, next level direct trade iceland. Shaman copper mug church-key coloring book, whatever poutine normcore fixie cred kickstarter post-ironic street art.',
+          'Today’s tech workers can’t be lone wolves. They have to discuss changes with teammates, coordinate with other departments, advocate for platforms they prefer and much more. While not everyone has to love public speaking, your new hire should be able to conduct research, put together a solid presentation and persuade stakeholders why X is better than Y.',
       },
       {
         id: 12,
-        title: 'How do I change my My Page password?',
+        title: 'What are the qualities of a successful team or project leader?',
         info:
-          'Coloring book forage photo booth gentrify lumbersexual. Migas chillwave poutine synth shoreditch, enamel pin thundercats fashion axe roof party polaroid chartreuse.',
+          'Always be on the lookout for leaders, even when you’re not hiring for a management position. The nature of IT work means individuals will frequently have to take responsibility for delivering projects, and this requires leadership skills such as organization, motivation, positivity, delegation and communication.',
       },
       {
         id: 13,
