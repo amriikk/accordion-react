@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import SingleQuestion from './Question';
+import TechQuestion from './Question';
 import data from './data';
 
 function App() {
@@ -11,7 +11,7 @@ function App() {
         <section className='info'>
           {questions.map((question) => {
             return (
-              <SingleQuestion key={question.id} {...question}></SingleQuestion>
+              <TechQuestion key={question.id} {...question}></TechQuestion>
             );
           })}
         </section>
