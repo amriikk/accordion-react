@@ -40,49 +40,49 @@ const questions = [
         info:
           'Everyone deals with professional setbacks at some point in their career. What you want to know is how people handled — and what they learned from — those situations. The best employees are resilient, using setbacks as a springboard toward positive changes. So listen to not only the problem they mention, but also what they did after the disappointment.',
       },
-      {
-        id: 7,
-        title: 'What are your favorite and least favorite technology products, and why?',
-        info:
+    {
+      id: 7,
+      title: 'What are your favorite and least favorite technology products, and why?',
+      info:
           'In addition to learning whether prospective employees like the hardware, operating system and software your company uses, this tech interview question helps you evaluate enthusiasm and knowledge. Do candidates become animated when discussing the advantages and disadvantages of certain tools? Do they admire solid engineering, sleek design, intuitive user experience or another aspect of good technology? ',
-      },
-      {
-        id: 8,
-        title: 'What are the benefits and the drawbacks of working in an Agile environment?',
-        info:
+    },
+    {
+      id: 8,
+      title: 'What are the benefits and the drawbacks of working in an Agile environment?',
+      info:
           'Most IT teams have adopted some form of Agile — currently the favored SDLC methodology — which means lots of quick meetings and a steady stream of feedback from fellow team members. A candidate’s answer to this IT question can tell you not only their level of understanding of this popular environment, but also their attitudes toward collaboration and communication.',
-      },
-      {
+    },
+    {
         id: 9,
         title: 'How do you think further technology advances will impact your job?',
         info:
           'Advances in technologies continue to change most IT roles. How aware of that is the candidate you’re interviewing? Do they know, for example, that automated testing is a major part of DevOps, which allows for faster development cycles and quicker deployment? A candidate may talk about the automation tools they use or the challenges of working with machine learning and big data. They may also discuss AI projects they hope to work on. This question is a good way to start a conversation about trends and advancements in the field, and it will also give you insight into how the candidate perceives their role over the long term.',
-      },
-      {
+    },
+    {
         id: 10,
         title: 'Tell me about a tech project you’ve worked on in your spare time.',
         info:
           'You want to hire an IT professional who devotes their personal time to side projects. Why? These are people who are driven and curious, which, in turn, keeps their skill set fresh. Ask how they stay motivated, what interests them about the project and what their ultimate goal is. If they can demo a website or app they’ve built, all the better.',
-      },
-      {
+    },
+    {
         id: 11,
         title: 'What was the last presentation you gave?',
         info:
           'Today’s tech workers can’t be lone wolves. They have to discuss changes with teammates, coordinate with other departments, advocate for platforms they prefer and much more. While not everyone has to love public speaking, your new hire should be able to conduct research, put together a solid presentation and persuade stakeholders why X is better than Y.',
-      },
-      {
+    },
+    {
         id: 12,
         title: 'What are the qualities of a successful team or project leader?',
         info:
           'Always be on the lookout for leaders, even when you’re not hiring for a management position. The nature of IT work means individuals will frequently have to take responsibility for delivering projects, and this requires leadership skills such as organization, motivation, positivity, delegation and communication.',
-      },
-      {
+    },
+    {
         id: 13,
         title: 'What skills or characteristics make someone an effective remote worker? ',
         info:
-          'This is an important question to ask given the ongoing impact of the COVID-19 pandemic. Remote workers must be self-starters who are able to work with little supervision. They need excellent communication abilities as well as self-discipline and stellar time-management skills. Not everyone has those qualities, and not everyone thrives working outside an office. You want to be sure your new hire will be both productive and comfortable if working off-site. ',
-      },
-      {
+          'This is an important question to ask given the ongoing impact of the COVID-19 pandemic. Remote workers must be self-starters who are able to work with little supervision. They need excellent communication abilities as well as self-discipline and stellar time-management skills. Not everyone has those qualities, and not everyone thrives working outside an office. You want to be sure your new hire will be both productive and comfortable if working off-site.',
+    },
+    {
         id: 14,
         title: 'What would you hope to achieve in the first six months after being hired?',
         info:
@@ -105,7 +105,7 @@ const questions = [
         title: 'Why do you want to work for us?',
         info:
           'Individuals who truly want the job will have done their research and be able to talk about your company’s values, products and services, and approach to technology. If they can’t articulate at least a few reasons your company would be a good match for their skills and ambitions, then they haven’t done their due diligence to properly prepare for the interview.\n\n Remember to allow time at the end of the interview for candidates to ask you questions. This is not only beneficial to applicants — it also clues you in to what matters to them. For instance, you may reconsider your interest in a prospect if they seem overly concerned about salary and vacation accrual during the first interview. Or you may be impressed when someone asks questions that demonstrate their business acumen and thorough understanding of your company’s strengths and weaknesses.',
-      },
+      }
   ]
 
   export default questions;
