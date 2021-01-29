@@ -1,3 +1,8 @@
+// 17 Tech Interview Questions
+// Portffolio -- i4
+//
+// Data from RH url('https://www.roberthalf.com/blog/how-to-interview-candidates/7-must-ask-tech-interview-questions')
+
 const questions = [
     {
       id: 1,
@@ -73,21 +78,34 @@ const questions = [
       },
       {
         id: 13,
-        title: 'What is BankID?',
+        title: 'What skills or characteristics make someone an effective remote worker? ',
         info:
-          'Enamel pin fam sustainable woke whatever venmo. Authentic asymmetrical put a bird on it, lumbersexual activated charcoal kinfolk banjo cred pickled sartorial.',
+          'This is an important question to ask given the ongoing impact of the COVID-19 pandemic. Remote workers must be self-starters who are able to work with little supervision. They need excellent communication abilities as well as self-discipline and stellar time-management skills. Not everyone has those qualities, and not everyone thrives working outside an office. You want to be sure your new hire will be both productive and comfortable if working off-site. ',
       },
       {
         id: 14,
-        title: 'Whose birth number can I use?',
+        title: 'What would you hope to achieve in the first six months after being hired?',
         info:
-          'Edison bulb direct trade gentrify beard lo-fi seitan sustainable roof party franzen occupy squid. Knausgaard cronut succulents, scenester readymade shabby chic lyft. Copper mug meh vegan gentrify.',
+          'The answer to this tech interview question depends on the role. A developer, for example, may hope to have developed a small project during that time, while a tech manager may want to have analyzed internal processes. A candidate’s response will give you insights into their overall understanding of the position. If their goals and ambitions don’t match the job description, this may not be the right position for them.',
       },
       {
         id: 15,
-        title: 'When do I recieve a password ordered by letter?',
+        title: 'How do you handle tight deadlines?',
         info:
-          'Locavore franzen fashion axe live-edge neutra irony synth af tilde shabby chic man braid chillwave waistcoat copper mug messenger bag. Banjo snackwave blog, microdosing thundercats migas vaporware viral lo-fi seitan ',
+          'IT teams often face daunting time constraints. You need someone who can work efficiently and accurately when under pressure. Ask this interview question of a potential employee and you’ll at least get a sense of how they deal with stress and whether they can keep up with the pace of projects at your company. You could also follow up by asking if they’ve ever missed a deadline and, if so, how they dealt with the situation.',
+      },
+      {
+        id: 16,
+        title: 'How do you manage your work-life balance?',
+        info:
+          'With on-call duties and multiple pressing deadlines, some tech workers struggle with the always-on, workaholic culture of this field. While you want dedicated team members, you should also seek employees who know how to relax and take care of themselves. Burnout is a very real problem in IT, and top performers have good strategies in place to prevent that. As a follow up to their answer, you could talk about how your company supports a healthy work-life balance — something that can be very tempting for candidates with multiple offers.',
+      },
+      {
+        id: 17,
+        title: 'Why do you want to work for us?',
+        info:
+          'Individuals who truly want the job will have done their research and be able to talk about your company’s values, products and services, and approach to technology. If they can’t articulate at least a few reasons your company would be a good match for their skills and ambitions, then they haven’t done their due diligence to properly prepare for the interview.\n\n Remember to allow time at the end of the interview for candidates to ask you questions. This is not only beneficial to applicants — it also clues you in to what matters to them. For instance, you may reconsider your interest in a prospect if they seem overly concerned about salary and vacation accrual during the first interview. Or you may be impressed when someone asks questions that demonstrate their business acumen and thorough understanding of your company’s strengths and weaknesses.',
       },
   ]
-  export default questions
+
+  export default questions;
