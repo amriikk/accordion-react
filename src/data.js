@@ -35,21 +35,21 @@ const questions = [
         'The answer can clue you in to a candidate’s personality trait that may not be readily apparent through their resume or traditional interview questions. It also gives insight into how the individual perceives themselves and the role they’re applying for. For example, if their answer focuses on their creative side but the position is very analytical in nature, the job may not be a good fit.',
     },
     {
-        id: 6,
-        title: 'Can you tell me about a time when things didn’t go the way you wanted at work, such as a project that failed or being passed over for a promotion?',
-        info:
+      id: 6,
+      title: 'Can you tell me about a time when things didn’t go the way you wanted at work, such as a project that failed or being passed over for a promotion?',
+      info:
           'Everyone deals with professional setbacks at some point in their career. What you want to know is how people handled — and what they learned from — those situations. The best employees are resilient, using setbacks as a springboard toward positive changes. So listen to not only the problem they mention, but also what they did after the disappointment.',
     },
     {
-      id: 7,
-      title: 'What are your favorite and least favorite technology products, and why?',
-      info:
+        id: 7,
+        title: 'What are your favorite and least favorite technology products, and why?',
+        info:
           'In addition to learning whether prospective employees like the hardware, operating system and software your company uses, this tech interview question helps you evaluate enthusiasm and knowledge. Do candidates become animated when discussing the advantages and disadvantages of certain tools? Do they admire solid engineering, sleek design, intuitive user experience or another aspect of good technology? ',
     },
     {
-       id: 8,
-       title: 'What are the benefits and the drawbacks of working in an Agile environment?',
-       info:
+        id: 8,
+        title: 'What are the benefits and the drawbacks of working in an Agile environment?',
+        info:
           'Most IT teams have adopted some form of Agile — currently the favored SDLC methodology — which means lots of quick meetings and a steady stream of feedback from fellow team members. A candidate’s answer to this IT question can tell you not only their level of understanding of this popular environment, but also their attitudes toward collaboration and communication.',
     },
     {
@@ -106,6 +106,6 @@ const questions = [
         info:
           'Individuals who truly want the job will have done their research and be able to talk about your company’s values, products and services, and approach to technology. If they can’t articulate at least a few reasons your company would be a good match for their skills and ambitions, then they haven’t done their due diligence to properly prepare for the interview. Remember to allow time at the end of the interview for candidates to ask you questions. This is not only beneficial to applicants — it also clues you in to what matters to them. For instance, you may reconsider your interest in a prospect if they seem overly concerned about salary and vacation accrual during the first interview. Or you may be impressed when someone asks questions that demonstrate their business acumen and thorough understanding of your company’s strengths and weaknesses.',
     }
-  ]
+]
 
   export default questions;
